@@ -3,10 +3,10 @@ import path from "node:path";
 export const ROOT = process.cwd();
 
 export const INPUT_FILE =
-  process.env.INPUT_FILE ?? path.join(ROOT, "data/video-prime.json");
+  process.env.INPUT_FILE ?? path.join(ROOT, "data/video-live.json");
 
 export const OUTPUT_FILE =
-  process.env.OUTPUT_FILE ?? path.join(ROOT, "data/video-prime-yt.json");
+  process.env.OUTPUT_FILE ?? path.join(ROOT, "data/video-live-yt.json");
 
 export const SUCCESS_FILE =
   process.env.SUCCESS_FILE ?? path.join(ROOT, "data/success.json");

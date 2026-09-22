@@ -1,0 +1,789 @@
+[
+  {
+    "category": "Core Subjects (Study Material)",
+    "learningPath": [
+      {
+        "id": "6908e39bb62b2a0d3c025675",
+        "name": "Object Oriented Programming",
+        "type": "pdf",
+        "pdf_name": "OOPS Notes.pdf",
+        "pdf": "pdf/OOPS Notes.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/OOPS Notes.pdf"
+      },
+      {
+        "id": "6908e3a4afc6b1c28b0443d5",
+        "name": "Database Management System",
+        "type": "pdf",
+        "pdf_name": "DBMS Notes.pdf",
+        "pdf": "pdf/DBMS Notes.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/DBMS Notes.pdf"
+      },
+      {
+        "id": "6908e3ae6f50b561b00695e5",
+        "name": "Computer Networking",
+        "type": "pdf",
+        "pdf_name": "Computer Networks Notes.pdf",
+        "pdf": "pdf/Computer Networks Notes.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Computer Networks Notes.pdf"
+      },
+      {
+        "id": "6908e3b48fcbb0d4620de208",
+        "name": "Operating System",
+        "type": "pdf",
+        "pdf_name": "Operating System Notes.pdf",
+        "pdf": "pdf/Operating System Notes.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Operating System Notes.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Live Mentorship Sessions",
+    "learningPath": [
+      {
+        "id": "68f8ad2a61d56601f60a6a55",
+        "name": "Orientation Session (Recording)",
+        "type": "ivideo",
+        "sourceId": "dm6cfw1nk5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dm6cfw1nk5.m3u8"
+      },
+      {
+        "id": "68f8ad2a61d56601f60a6a56",
+        "name": "Extra Live Session 1 (Recording)",
+        "type": "ivideo",
+        "sourceId": "4seewkt34o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4seewkt34o.m3u8"
+      },
+      {
+        "id": "68f8ad2a61d56601f60a6a57",
+        "name": "Extra Live Session 2 (Recording)",
+        "type": "ivideo",
+        "sourceId": "7fl30zv5yt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7fl30zv5yt.m3u8"
+      },
+      {
+        "id": "68f8ad2a61d56601f60a6a58",
+        "name": "Linkedin Mentorship Session by Aman sir",
+        "type": "ivideo",
+        "sourceId": "xev0d2xprc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xev0d2xprc.m3u8"
+      },
+      {
+        "id": "68f8ad2a61d56601f60a6a59",
+        "name": "Placement & Internships Season 2025-26",
+        "type": "ivideo",
+        "sourceId": "agnh2sgnlz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/agnh2sgnlz.m3u8"
+      },
+      {
+        "id": "68f8ad2a61d56601f60a6a5a",
+        "name": "GSoC Mentorship Session",
+        "type": "ivideo",
+        "sourceId": "4kbuk83tpf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4kbuk83tpf.m3u8"
+      },
+      {
+        "id": "68f8ad2a61d56601f60a6a5b",
+        "name": "Resume Building Mentorship Session",
+        "type": "ivideo",
+        "sourceId": "sryy3fgk3x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sryy3fgk3x.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Live Practice Sessions (Java)",
+    "learningPath": [
+      {
+        "id": "68fc7fd6d37302a273048e05",
+        "name": "Practice Session 1 (Recording)",
+        "type": "ivideo",
+        "sourceId": "iduhagzvy6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/iduhagzvy6.m3u8"
+      },
+      {
+        "id": "6900d6fec3c9196dcd06d8b3",
+        "name": "Practice Session 2 (Recording)",
+        "type": "ivideo",
+        "sourceId": "r0dq7spl8v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/r0dq7spl8v.m3u8"
+      },
+      {
+        "id": "690218a6fedff545920a43d8",
+        "name": "Practice Session 3 (Recording)",
+        "type": "ivideo",
+        "sourceId": "r7jckvuotq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/r7jckvuotq.m3u8"
+      },
+      {
+        "id": "6908bb4da1d9e9901c0dccb7",
+        "name": "Practice Session 4 (Recording)",
+        "type": "ivideo",
+        "sourceId": "zi050w6zqr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zi050w6zqr.m3u8"
+      },
+      {
+        "id": "6908bd1578bd0ca25d0b0137",
+        "name": "Practice Session 5 (Recording)",
+        "type": "ivideo",
+        "sourceId": "guuqoe5gcn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/guuqoe5gcn.m3u8"
+      },
+      {
+        "id": "69091381b2c2c6580d0623ca",
+        "name": "Practice Session 6 (Recording)",
+        "type": "ivideo",
+        "sourceId": "oin9kin1dl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/oin9kin1dl.m3u8"
+      },
+      {
+        "id": "690cb40e536b0328f50d7a87",
+        "name": "Practice Session 7 (Recording)",
+        "type": "ivideo",
+        "sourceId": "m6pq8nhnfk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/m6pq8nhnfk.m3u8"
+      },
+      {
+        "id": "690efaa53d01d6396502adf8",
+        "name": "Practice Session 8 (Recording)",
+        "type": "ivideo",
+        "sourceId": "hygcot6dxv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hygcot6dxv.m3u8"
+      },
+      {
+        "id": "69119686ed1c5d40360a6427",
+        "name": "Practice Session 9 (Recording)",
+        "type": "ivideo",
+        "sourceId": "1784xbdlle",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1784xbdlle.m3u8"
+      },
+      {
+        "id": "6914ac2699c815bee00829a9",
+        "name": "Practice Session 10 (Recording)",
+        "type": "ivideo",
+        "sourceId": "b2yiiaxis9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/b2yiiaxis9.m3u8"
+      },
+      {
+        "id": "69161f261b1b08a0350bc015",
+        "name": "Practice Session 11 (Recording)",
+        "type": "ivideo",
+        "sourceId": "a59tauyvrg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a59tauyvrg.m3u8"
+      },
+      {
+        "id": "691adc51882e1084950bb247",
+        "name": "Practice Session 12 (Recording)",
+        "type": "ivideo",
+        "sourceId": "0rjho7fzyx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0rjho7fzyx.m3u8"
+      },
+      {
+        "id": "691d58c86c86b5b8900bc8e9",
+        "name": "Practice Session 13 (Recording)",
+        "type": "ivideo",
+        "sourceId": "na5jk5ed6y",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/na5jk5ed6y.m3u8"
+      },
+      {
+        "id": "6922fabac1b6a0d1d00f2395",
+        "name": "Practice Session 14 (Recording)",
+        "type": "ivideo",
+        "sourceId": "dvnzb6znkr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dvnzb6znkr.m3u8"
+      },
+      {
+        "id": "6922fae91b30225f64087069",
+        "name": "Practice Session 15 (Recording)",
+        "type": "ivideo",
+        "sourceId": "5gzbsm079n",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5gzbsm079n.m3u8"
+      },
+      {
+        "id": "69271ebdce3404b428034705",
+        "name": "Practice Session 16 (Recording)",
+        "type": "ivideo",
+        "sourceId": "638tdqor2n",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/638tdqor2n.m3u8"
+      },
+      {
+        "id": "69271ed3da75ddb34a0b46b7",
+        "name": "Practice Session 17 (Recording)",
+        "type": "ivideo",
+        "sourceId": "cw0cagjrd3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cw0cagjrd3.m3u8"
+      },
+      {
+        "id": "692961e04c701158010e6b57",
+        "name": "Practice Session 18 (Recording)",
+        "type": "ivideo",
+        "sourceId": "v8eeombsj1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v8eeombsj1.m3u8"
+      },
+      {
+        "id": "692c63e788a65fbb1002f6d7",
+        "name": "Practice Session 19 (Recording)",
+        "type": "ivideo",
+        "sourceId": "4vbfh2fl6c",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4vbfh2fl6c.m3u8"
+      },
+      {
+        "id": "692ef709630188016a0ef873",
+        "name": "Practice Session 20 (Recording)",
+        "type": "ivideo",
+        "sourceId": "2krpnjv1ok",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2krpnjv1ok.m3u8"
+      },
+      {
+        "id": "69317185bbba3b2819091de9",
+        "name": "Practice Session 21 (Recording)",
+        "type": "ivideo",
+        "sourceId": "87ialgfg12",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/87ialgfg12.m3u8"
+      },
+      {
+        "id": "69340dae615d68faf1017149",
+        "name": "Practice Session 22 (Recording)",
+        "type": "ivideo",
+        "sourceId": "yhi5tlg7h2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yhi5tlg7h2.m3u8"
+      },
+      {
+        "id": "693695abe913273d34069135",
+        "name": "Practice Session 23 (Recording)",
+        "type": "ivideo",
+        "sourceId": "i2hf2rwn2g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/i2hf2rwn2g.m3u8"
+      },
+      {
+        "id": "69398cef1ceab46543058026",
+        "name": "Practice Session 24 (Recording)",
+        "type": "ivideo",
+        "sourceId": "xsp6xs5rcm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xsp6xs5rcm.m3u8"
+      },
+      {
+        "id": "694031777ea80382ba070736",
+        "name": "Practice Session 25 (Recording)",
+        "type": "ivideo",
+        "sourceId": "4cac0sxjsa",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4cac0sxjsa.m3u8"
+      },
+      {
+        "id": "694030e1a8f414c6fd03d706",
+        "name": "Practice Session 26 (Recording)",
+        "type": "ivideo",
+        "sourceId": "ggp3j5hc3l",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ggp3j5hc3l.m3u8"
+      },
+      {
+        "id": "6943f0c9b40dca53f4031575",
+        "name": "Practice Session 27 (Recording)",
+        "type": "ivideo",
+        "sourceId": "55v8gjqyag",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/55v8gjqyag.m3u8"
+      },
+      {
+        "id": "6943f10effe3e201650b8135",
+        "name": "Practice Session 28 (Recording)",
+        "type": "ivideo",
+        "sourceId": "n5z22kzg7i",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/n5z22kzg7i.m3u8"
+      },
+      {
+        "id": "69465b7b3e819bdeaf09f0e7",
+        "name": "Practice Session 29 (Recording)",
+        "type": "ivideo",
+        "sourceId": "f0o5onj596",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/f0o5onj596.m3u8"
+      },
+      {
+        "id": "694a8920fdfe1cf60700fbc3",
+        "name": "Practice Session 30 (Recording)",
+        "type": "ivideo",
+        "sourceId": "s1eazywd0q",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s1eazywd0q.m3u8"
+      },
+      {
+        "id": "6953de9a0d2628fb76020d35",
+        "name": "Practice Session 31 (Recording)",
+        "type": "ivideo",
+        "sourceId": "wy2cymudjw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wy2cymudjw.m3u8"
+      },
+      {
+        "id": "6953debcdc7f3154e107afd8",
+        "name": "Practice Session 32 (Recording)",
+        "type": "ivideo",
+        "sourceId": "qvtvcjxrta",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qvtvcjxrta.m3u8"
+      },
+      {
+        "id": "695935856d31b56a180d2128",
+        "name": "Practice Session 33 (Recording)",
+        "type": "ivideo",
+        "sourceId": "jieen862xo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jieen862xo.m3u8"
+      },
+      {
+        "id": "695bcf70347b5d60fd080215",
+        "name": "Practice Session 34 (Recording)",
+        "type": "ivideo",
+        "sourceId": "usmz2k40ha",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/usmz2k40ha.m3u8"
+      },
+      {
+        "id": "695e6844a2e3dff6ce0ebc43",
+        "name": "Practice Session 35 (Recording)",
+        "type": "ivideo",
+        "sourceId": "c038vwgh5z",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c038vwgh5z.m3u8"
+      },
+      {
+        "id": "69667ab9e44cba9cbb0f4e05",
+        "name": "Practice Session 36 (Recording)",
+        "type": "ivideo",
+        "sourceId": "zbybel16a2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zbybel16a2.m3u8"
+      },
+      {
+        "id": "69667c2de0f17e59be0a89d7",
+        "name": "Practice Session 37 (Recording)",
+        "type": "ivideo",
+        "sourceId": "u988shwzun",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/u988shwzun.m3u8"
+      },
+      {
+        "id": "69667e26b9718332ba080953",
+        "name": "Practice Session 38 (Recording)",
+        "type": "ivideo",
+        "sourceId": "8agfexhy05",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8agfexhy05.m3u8"
+      },
+      {
+        "id": "69691d487185cf788d081525",
+        "name": "Practice Session 39 (Recording)",
+        "type": "ivideo",
+        "sourceId": "gmyn8jkgx8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gmyn8jkgx8.m3u8"
+      },
+      {
+        "id": "696cdf37c309048e6a06ceb5",
+        "name": "Practice Session 40 (Recording)",
+        "type": "ivideo",
+        "sourceId": "oq0lmirhsi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/oq0lmirhsi.m3u8"
+      },
+      {
+        "id": "696e7122eb01b2a4a6034ba5",
+        "name": "Practice Session 41 (Recording)",
+        "type": "ivideo",
+        "sourceId": "ilyc6txiyu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ilyc6txiyu.m3u8"
+      },
+      {
+        "id": "6971e79defe48c1b2907c646",
+        "name": "Practice Session 42 (Recording)",
+        "type": "ivideo",
+        "sourceId": "ky8zde1qky",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ky8zde1qky.m3u8"
+      },
+      {
+        "id": "6978b7ce56363d849608aec6",
+        "name": "Practice Session 43 (Recording)",
+        "type": "ivideo",
+        "sourceId": "uvlznuy1d7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uvlznuy1d7.m3u8"
+      },
+      {
+        "id": "6978b9a56556d137d809aa37",
+        "name": "Practice Session 44 (Recording)",
+        "type": "ivideo",
+        "sourceId": "tacqh6xl5q",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tacqh6xl5q.m3u8"
+      },
+      {
+        "id": "6978e1034714fa6c2d0628f6",
+        "name": "Practice Session 45 (Recording)",
+        "type": "ivideo",
+        "sourceId": "73xvu85oc7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/73xvu85oc7.m3u8"
+      },
+      {
+        "id": "697b8b1f1dadf134d60e2073",
+        "name": "Practice Session 46 (Recording)",
+        "type": "ivideo",
+        "sourceId": "y9y35k3fwf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y9y35k3fwf.m3u8"
+      },
+      {
+        "id": "698df954100b00ef2d0f6da3",
+        "name": "Practice Session 47 (Recording)",
+        "type": "ivideo",
+        "sourceId": "cxwxx7znxt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cxwxx7znxt.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Live Practice Sessions (C++)",
+    "learningPath": [
+      {
+        "id": "68fc7ffed38a12c4ff0c03d5",
+        "name": "Practice Session 1 (Recording)",
+        "type": "ivideo",
+        "sourceId": "pg4nr45jy0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pg4nr45jy0.m3u8"
+      },
+      {
+        "id": "6900d718f32d8331de03d593",
+        "name": "Practice Session 2 (Recording)",
+        "type": "ivideo",
+        "sourceId": "mxkoeb6d2g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mxkoeb6d2g.m3u8"
+      },
+      {
+        "id": "6908ba550376549d2c029db8",
+        "name": "Practice Session 3 (Recording)",
+        "type": "ivideo",
+        "sourceId": "809bxkz383",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/809bxkz383.m3u8"
+      },
+      {
+        "id": "6908bab4346c752e60020bc6",
+        "name": "Practice Session 4 (Recording)",
+        "type": "ivideo",
+        "sourceId": "f3s4cmlvht",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/f3s4cmlvht.m3u8"
+      },
+      {
+        "id": "6908bd48bac2f4bb610c6f76",
+        "name": "Practice Session 5 (Recording)",
+        "type": "ivideo",
+        "sourceId": "8jcbw187iy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8jcbw187iy.m3u8"
+      },
+      {
+        "id": "6908ca67ba0133ab81098ff8",
+        "name": "Practice Session 6 (Recording)",
+        "type": "ivideo",
+        "sourceId": "4qeiv1t9zy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4qeiv1t9zy.m3u8"
+      },
+      {
+        "id": "690edd2f8ddc35e07e0ccb03",
+        "name": "Practice Session 7 (Recording)",
+        "type": "ivideo",
+        "sourceId": "2qeb396eag",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2qeb396eag.m3u8"
+      },
+      {
+        "id": "690efac31dfa48ead80def56",
+        "name": "Practice Session 8 (Recording)",
+        "type": "ivideo",
+        "sourceId": "eixvxnmf1r",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/eixvxnmf1r.m3u8"
+      },
+      {
+        "id": "69119667b10a7e23c60db017",
+        "name": "Practice Session 9 (Recording)",
+        "type": "ivideo",
+        "sourceId": "jpv6uhazu6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jpv6uhazu6.m3u8"
+      },
+      {
+        "id": "6914ac6478e38548e50284a6",
+        "name": "Practice Session 10 (Recording)",
+        "type": "ivideo",
+        "sourceId": "pstrrx1ybr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pstrrx1ybr.m3u8"
+      },
+      {
+        "id": "691619d5a4abae720b0d1b46",
+        "name": "Practice Session 11 (Recording)",
+        "type": "ivideo",
+        "sourceId": "od9jrn5ip3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/od9jrn5ip3.m3u8"
+      },
+      {
+        "id": "691a1421c8c85906d60cd586",
+        "name": "Practice Session 12 (Recording)",
+        "type": "ivideo",
+        "sourceId": "i4e82pzuc3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/i4e82pzuc3.m3u8"
+      },
+      {
+        "id": "691d58a0bcef1d41e50cb40c",
+        "name": "Practice Session 13 (Recording)",
+        "type": "ivideo",
+        "sourceId": "ubdmy6axl0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ubdmy6axl0.m3u8"
+      },
+      {
+        "id": "6922f83bc4e5842031051415",
+        "name": "Practice Session 14 (Recording)",
+        "type": "ivideo",
+        "sourceId": "quzcgswso9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/quzcgswso9.m3u8"
+      },
+      {
+        "id": "6922f8522b5c9f7c0707d235",
+        "name": "Practice Session 15 (Recording)",
+        "type": "ivideo",
+        "sourceId": "mcs933meor",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mcs933meor.m3u8"
+      },
+      {
+        "id": "6924797b1fb35f787d0e5583",
+        "name": "Practice Session 16 (Recording)",
+        "type": "ivideo",
+        "sourceId": "c1ts1c3t7p",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c1ts1c3t7p.m3u8"
+      },
+      {
+        "id": "6927395ff308505559085f65",
+        "name": "Practice Session 17 (Recording)",
+        "type": "ivideo",
+        "sourceId": "xxegjblnfk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xxegjblnfk.m3u8"
+      },
+      {
+        "id": "692b088f7c6b1deddf0923c5",
+        "name": "Practice Session 18 (Recording)",
+        "type": "ivideo",
+        "sourceId": "jq2j393kcd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jq2j393kcd.m3u8"
+      },
+      {
+        "id": "692c641092f799e30f088d73",
+        "name": "Practice Session 19 (Recording)",
+        "type": "ivideo",
+        "sourceId": "ael5xjr1nu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ael5xjr1nu.m3u8"
+      },
+      {
+        "id": "692ef6de1ed7c1f82a0fff48",
+        "name": "Practice Session 20 (Recording)",
+        "type": "ivideo",
+        "sourceId": "t1wep6k478",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t1wep6k478.m3u8"
+      },
+      {
+        "id": "6931716b8b3d04ad2e059cd5",
+        "name": "Practice Session 21 (Recording)",
+        "type": "ivideo",
+        "sourceId": "a3zknrmse2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a3zknrmse2.m3u8"
+      },
+      {
+        "id": "69340dd6bcf5a7170e033b15",
+        "name": "Practice Session 22 (Recording)",
+        "type": "ivideo",
+        "sourceId": "0bzxaiqpzn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0bzxaiqpzn.m3u8"
+      },
+      {
+        "id": "693695c87f75ed7d550be665",
+        "name": "Practice Session 23 (Recording)",
+        "type": "ivideo",
+        "sourceId": "y1tl3m4cay",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y1tl3m4cay.m3u8"
+      },
+      {
+        "id": "69398cbd93782be82c026f06",
+        "name": "Practice Session 24 (Recording)",
+        "type": "ivideo",
+        "sourceId": "xtawk7xjjb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xtawk7xjjb.m3u8"
+      },
+      {
+        "id": "694030127e056686c4037979",
+        "name": "Practice Session 25 (Recording)",
+        "type": "ivideo",
+        "sourceId": "e3eago94ct",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e3eago94ct.m3u8"
+      },
+      {
+        "id": "694030571a5d4e90a20c09be",
+        "name": "Practice Session 26 (Recording)",
+        "type": "ivideo",
+        "sourceId": "ugks3ysgvz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ugks3ysgvz.m3u8"
+      },
+      {
+        "id": "6941230a67198a4666062aca",
+        "name": "Practice Session 27 (Recording)",
+        "type": "ivideo",
+        "sourceId": "un2j9ykhau",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/un2j9ykhau.m3u8"
+      },
+      {
+        "id": "69444556597f72ee1a0cd437",
+        "name": "Practice Session 28 (Recording)",
+        "type": "ivideo",
+        "sourceId": "ggoeqhfeqk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ggoeqhfeqk.m3u8"
+      },
+      {
+        "id": "694a8863eba1352ecf0618e6",
+        "name": "Practice Session 29 (Recording)",
+        "type": "ivideo",
+        "sourceId": "c9crasm0zs",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c9crasm0zs.m3u8"
+      },
+      {
+        "id": "694a8946e0202c74dc0a8155",
+        "name": "Practice Session 30 (Recording)",
+        "type": "ivideo",
+        "sourceId": "yaxnrthk3p",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yaxnrthk3p.m3u8"
+      },
+      {
+        "id": "694c074152baa2bfe50e6735",
+        "name": "Practice Session 31 (Recording)",
+        "type": "ivideo",
+        "sourceId": "ao64wtjc4f",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ao64wtjc4f.m3u8"
+      },
+      {
+        "id": "694eaedbd0864c3bd1044d73",
+        "name": "Practice Session 32 (Recording)",
+        "type": "ivideo",
+        "sourceId": "h61appch1g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h61appch1g.m3u8"
+      },
+      {
+        "id": "695100ff624be03b2e01c006",
+        "name": "Practice Session 33 (Recording)",
+        "type": "ivideo",
+        "sourceId": "2z2x76jqh3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2z2x76jqh3.m3u8"
+      },
+      {
+        "id": "6953df291074749bdd0f66c5",
+        "name": "Practice Session 34 (Recording)",
+        "type": "ivideo",
+        "sourceId": "zos0rvx54c",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zos0rvx54c.m3u8"
+      },
+      {
+        "id": "695bcf4cec33f560080903e6",
+        "name": "Practice Session 35 (Recording)",
+        "type": "ivideo",
+        "sourceId": "w5wi10qsf9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/w5wi10qsf9.m3u8"
+      },
+      {
+        "id": "695e686a20170d3ad2036a05",
+        "name": "Practice Session 36 (Recording)",
+        "type": "ivideo",
+        "sourceId": "56xnqlbqtj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/56xnqlbqtj.m3u8"
+      },
+      {
+        "id": "69667b781bd0ac63ee0a0df3",
+        "name": "Practice Session 37 (Recording)",
+        "type": "ivideo",
+        "sourceId": "v99sujmfpq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v99sujmfpq.m3u8"
+      },
+      {
+        "id": "69667baff2e81fa1260fb618",
+        "name": "Practice Session 38 (Recording)",
+        "type": "ivideo",
+        "sourceId": "pix32fxbov",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pix32fxbov.m3u8"
+      },
+      {
+        "id": "69667c55e30948dd2d019fe5",
+        "name": "Practice Session 39 (Recording)",
+        "type": "ivideo",
+        "sourceId": "np2ov45vq5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/np2ov45vq5.m3u8"
+      },
+      {
+        "id": "696904c898dc1ab2660b2223",
+        "name": "Practice Session 40 (Recording)",
+        "type": "ivideo",
+        "sourceId": "ydinm0y75w",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ydinm0y75w.m3u8"
+      },
+      {
+        "id": "696cdf52a3dd0d15cc0523f5",
+        "name": "Practice Session 41 (Recording)",
+        "type": "ivideo",
+        "sourceId": "ysj5c24ppj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ysj5c24ppj.m3u8"
+      },
+      {
+        "id": "696e719500ff1eae2b02c705",
+        "name": "Practice Session 42 (Recording)",
+        "type": "ivideo",
+        "sourceId": "qujovmyfcc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qujovmyfcc.m3u8"
+      },
+      {
+        "id": "6971e7c19afc8fa26b088af6",
+        "name": "Practice Session 43 (Recording)",
+        "type": "ivideo",
+        "sourceId": "mhcmc28nh6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mhcmc28nh6.m3u8"
+      },
+      {
+        "id": "6978b8b0925bcb802d0a7b06",
+        "name": "Practice Session 44 (Recording)",
+        "type": "ivideo",
+        "sourceId": "lsxjmex0qc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lsxjmex0qc.m3u8"
+      },
+      {
+        "id": "6978b9089f15544783010799",
+        "name": "Practice Session 45 (Recording)",
+        "type": "ivideo",
+        "sourceId": "7rqfjuyina",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7rqfjuyina.m3u8"
+      },
+      {
+        "id": "6978b969a06c3d2a2e0f7eb6",
+        "name": "Practice Session 46 (Recording)",
+        "type": "ivideo",
+        "sourceId": "9f1j6f56ea",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9f1j6f56ea.m3u8"
+      },
+      {
+        "id": "697b8b3edac75425e40f4f45",
+        "name": "Practice Session 47 (Recording)",
+        "type": "ivideo",
+        "sourceId": "qk8oj1kqd8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qk8oj1kqd8.m3u8"
+      },
+      {
+        "id": "69820ece56f11e4ad80bd7c6",
+        "name": "Practice Session 48 (Recording)",
+        "type": "ivideo",
+        "sourceId": "22orr9r73v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/22orr9r73v.m3u8"
+      },
+      {
+        "id": "69820eef170d19dda20a5027",
+        "name": "Practice Session 49 (Recording)",
+        "type": "ivideo",
+        "sourceId": "9cgjvzjizn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9cgjvzjizn.m3u8"
+      },
+      {
+        "id": "69820f0c535e8c329c0cd315",
+        "name": "Practice Session 50 (Recording)",
+        "type": "ivideo",
+        "sourceId": "7519pwclgx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7519pwclgx.m3u8"
+      },
+      {
+        "id": "6986095d45cf4d21b803f7b3",
+        "name": "Practice Session 51 (Recording)",
+        "type": "ivideo",
+        "sourceId": "nnw7iahcu8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nnw7iahcu8.m3u8"
+      }
+    ]
+  }
+]

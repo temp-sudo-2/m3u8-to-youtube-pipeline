@@ -623,58 +623,6 @@
         "privacyStatus": "unlisted",
         "uploadedAt": "2026-09-22T08:00:18.427Z"
       }
-    },
-    {
-      "id": "68fa3b4187f7d968610ee9c4",
-      "name": "Message from the Teacher",
-      "type": "ivideo",
-      "sourceId": "abwboh36t8",
-      "m3u8_url": "https://fast.wistia.com/embed/medias/abwboh36t8.m3u8",
-      "youtube": {
-        "videoId": "_1QS1XOc5Rw",
-        "url": "https://www.youtube.com/watch?v=_1QS1XOc5Rw",
-        "privacyStatus": "unlisted",
-        "uploadedAt": "2026-09-22T08:41:39.524Z"
-      }
-    },
-    {
-      "id": "68fa3b4287f7d968610ee9c5",
-      "name": "Placements & Internships",
-      "type": "ivideo",
-      "sourceId": "3u4uh30u69",
-      "m3u8_url": "https://fast.wistia.com/embed/medias/3u4uh30u69.m3u8",
-      "youtube": {
-        "videoId": "DOFPnxhIiHM",
-        "url": "https://www.youtube.com/watch?v=DOFPnxhIiHM",
-        "privacyStatus": "unlisted",
-        "uploadedAt": "2026-09-22T08:41:56.500Z"
-      }
-    },
-    {
-      "id": "68fa3b4287f7d968610ee9c6",
-      "name": "About the Lectures",
-      "type": "ivideo",
-      "sourceId": "0gumrkdg8r",
-      "m3u8_url": "https://fast.wistia.com/embed/medias/0gumrkdg8r.m3u8",
-      "youtube": {
-        "videoId": "dC1CgBVDG2s",
-        "url": "https://www.youtube.com/watch?v=dC1CgBVDG2s",
-        "privacyStatus": "unlisted",
-        "uploadedAt": "2026-09-22T08:42:07.228Z"
-      }
-    },
-    {
-      "id": "68fa3b4287f7d968610ee9c7",
-      "name": "Pre-requisites",
-      "type": "ivideo",
-      "sourceId": "zl1iu1r5ij",
-      "m3u8_url": "https://fast.wistia.com/embed/medias/zl1iu1r5ij.m3u8",
-      "youtube": {
-        "videoId": "UE6T37L2yBs",
-        "url": "https://www.youtube.com/watch?v=UE6T37L2yBs",
-        "privacyStatus": "unlisted",
-        "uploadedAt": "2026-09-22T08:42:20.544Z"
-      }
     }
   ]
 }

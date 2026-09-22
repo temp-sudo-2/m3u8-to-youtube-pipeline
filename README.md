@@ -2,7 +2,7 @@
 
 Node.js + TypeScript worker that:
 
-1. Reads `data/video-prime.json`.
+1. Reads `data/video-aptitude-english.json` by default.
 2. Processes only records whose `type` is `ivideo`.
 3. Downloads each `m3u8_url` to a temporary MP4 using `yt-dlp` with concurrent HLS fragments.
 4. Uploads the MP4 to YouTube.
@@ -21,11 +21,13 @@ Node.js + TypeScript worker that:
 
 ## Input
 
-Put your existing JSON at:
+By default, the worker reads:
 
 ```text
-data/video-prime.json
+data/video-aptitude-english.json
 ```
+
+Use `INPUT_FILE` to select a different dataset.
 
 The script expects the existing hierarchy to contain records similar to:
 
@@ -90,10 +92,10 @@ Do not commit either credential file.
 
 ## 3. Test locally
 
-Put your source JSON in:
+Put your source JSON in the configured input path, or use the default:
 
 ```text
-data/video-prime.json
+data/video-aptitude-english.json
 ```
 
 Then:

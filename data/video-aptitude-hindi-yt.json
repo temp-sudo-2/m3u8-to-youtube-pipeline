@@ -1,0 +1,732 @@
+{
+  "learningPath": [
+    {
+      "id": "66bf39e42d0079c345025503",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "a94t2ivslh",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/a94t2ivslh.m3u8",
+      "youtube": {
+        "videoId": "E1cGDfTGATU",
+        "url": "https://www.youtube.com/watch?v=E1cGDfTGATU",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:11:47.263Z"
+      }
+    },
+    {
+      "id": "66b74b857f809db010095165",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "e1z3ax0mpg",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/e1z3ax0mpg.m3u8",
+      "youtube": {
+        "videoId": "NTG6koJieDE",
+        "url": "https://www.youtube.com/watch?v=NTG6koJieDE",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:15:20.150Z"
+      }
+    },
+    {
+      "id": "66b74b857f809db010095166",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "3l6w1q03q7",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/3l6w1q03q7.m3u8",
+      "youtube": {
+        "videoId": "lb9HxxjUyFI",
+        "url": "https://www.youtube.com/watch?v=lb9HxxjUyFI",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:16:20.897Z"
+      }
+    },
+    {
+      "id": "66b74b867f809db01009516b",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "a83aumthgn",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/a83aumthgn.m3u8",
+      "youtube": {
+        "videoId": "6_hQKqACtOw",
+        "url": "https://www.youtube.com/watch?v=6_hQKqACtOw",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:18:25.487Z"
+      }
+    },
+    {
+      "id": "66b74b877f809db010095170",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "yqv6v5q253",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/yqv6v5q253.m3u8",
+      "youtube": {
+        "videoId": "nD_-sNCjkWY",
+        "url": "https://www.youtube.com/watch?v=nD_-sNCjkWY",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:20:17.925Z"
+      }
+    },
+    {
+      "id": "66b74b897f809db010095175",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "15ydthsmb2",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/15ydthsmb2.m3u8",
+      "youtube": {
+        "videoId": "4pyOIJVph5M",
+        "url": "https://www.youtube.com/watch?v=4pyOIJVph5M",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:22:58.002Z"
+      }
+    },
+    {
+      "id": "66b74b8a7f809db01009517a",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "b9osjdf3q2",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/b9osjdf3q2.m3u8",
+      "youtube": {
+        "videoId": "JYLKZnUyyO8",
+        "url": "https://www.youtube.com/watch?v=JYLKZnUyyO8",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:24:40.535Z"
+      }
+    },
+    {
+      "id": "66b74b8b7f809db01009517f",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "ego02ed5q0",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/ego02ed5q0.m3u8",
+      "youtube": {
+        "videoId": "DvYcYc-8j2Y",
+        "url": "https://www.youtube.com/watch?v=DvYcYc-8j2Y",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:27:33.663Z"
+      }
+    },
+    {
+      "id": "66b74b8c7f809db010095184",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "zumros3c9q",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/zumros3c9q.m3u8",
+      "youtube": {
+        "videoId": "yT5jH3sjL6Y",
+        "url": "https://www.youtube.com/watch?v=yT5jH3sjL6Y",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:30:08.447Z"
+      }
+    },
+    {
+      "id": "66b74b8d7f809db010095189",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "zojiqwgaxv",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/zojiqwgaxv.m3u8",
+      "youtube": {
+        "videoId": "Oyjb6F7ntmQ",
+        "url": "https://www.youtube.com/watch?v=Oyjb6F7ntmQ",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:33:26.807Z"
+      }
+    },
+    {
+      "id": "66b74b8e7f809db01009518e",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "1t02gu4otl",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/1t02gu4otl.m3u8",
+      "youtube": {
+        "videoId": "mzekKamPEyE",
+        "url": "https://www.youtube.com/watch?v=mzekKamPEyE",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:34:58.492Z"
+      }
+    },
+    {
+      "id": "66b74b8f7f809db010095193",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "xuskdgde1u",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/xuskdgde1u.m3u8",
+      "youtube": {
+        "videoId": "zxTG1P4JolQ",
+        "url": "https://www.youtube.com/watch?v=zxTG1P4JolQ",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:38:17.475Z"
+      }
+    },
+    {
+      "id": "66b74b907f809db010095198",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "v4cg0as4t6",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/v4cg0as4t6.m3u8",
+      "youtube": {
+        "videoId": "rp817ybKLQ4",
+        "url": "https://www.youtube.com/watch?v=rp817ybKLQ4",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:41:35.822Z"
+      }
+    },
+    {
+      "id": "66b74b927f809db01009519d",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "kx28nxsz3u",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/kx28nxsz3u.m3u8",
+      "youtube": {
+        "videoId": "5pDFSd1CSvM",
+        "url": "https://www.youtube.com/watch?v=5pDFSd1CSvM",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:44:18.039Z"
+      }
+    },
+    {
+      "id": "66b74b937f809db0100951a2",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "sy5gje4xcm",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/sy5gje4xcm.m3u8",
+      "youtube": {
+        "videoId": "Ssp3C11olsE",
+        "url": "https://www.youtube.com/watch?v=Ssp3C11olsE",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:48:42.843Z"
+      }
+    },
+    {
+      "id": "66b74b947f809db0100951a7",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "tdly4ry94v",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/tdly4ry94v.m3u8",
+      "youtube": {
+        "videoId": "2xFo6IQFuNE",
+        "url": "https://www.youtube.com/watch?v=2xFo6IQFuNE",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:50:29.223Z"
+      }
+    },
+    {
+      "id": "66b74b957f809db0100951ac",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "fs9mblxjm5",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/fs9mblxjm5.m3u8",
+      "youtube": {
+        "videoId": "Pmh88OusgdQ",
+        "url": "https://www.youtube.com/watch?v=Pmh88OusgdQ",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:52:25.585Z"
+      }
+    },
+    {
+      "id": "66b74b977f809db0100951b1",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "2wk9p7q7wz",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/2wk9p7q7wz.m3u8",
+      "youtube": {
+        "videoId": "2CkN85QMjF8",
+        "url": "https://www.youtube.com/watch?v=2CkN85QMjF8",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:59:05.225Z"
+      }
+    },
+    {
+      "id": "66b74b987f809db0100951b6",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "xepnezlvbc",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/xepnezlvbc.m3u8",
+      "youtube": {
+        "videoId": "vlr130hHw7k",
+        "url": "https://www.youtube.com/watch?v=vlr130hHw7k",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T18:59:48.564Z"
+      }
+    },
+    {
+      "id": "66b74b997f809db0100951bb",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "qh3q9sovwd",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/qh3q9sovwd.m3u8",
+      "youtube": {
+        "videoId": "-yhMA627o_g",
+        "url": "https://www.youtube.com/watch?v=-yhMA627o_g",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:00:39.478Z"
+      }
+    },
+    {
+      "id": "66b74b9a7f809db0100951c0",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "ql56c0p8ux",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/ql56c0p8ux.m3u8",
+      "youtube": {
+        "videoId": "O1oPw5Zh1cc",
+        "url": "https://www.youtube.com/watch?v=O1oPw5Zh1cc",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:01:59.069Z"
+      }
+    },
+    {
+      "id": "66b74b9b7f809db0100951c5",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "5cm0h4m0l7",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/5cm0h4m0l7.m3u8",
+      "youtube": {
+        "videoId": "jkG-rPutp1c",
+        "url": "https://www.youtube.com/watch?v=jkG-rPutp1c",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:11:39.840Z"
+      }
+    },
+    {
+      "id": "66b74b9c7f809db0100951ca",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "nfjuxgv5zm",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/nfjuxgv5zm.m3u8",
+      "youtube": {
+        "videoId": "sYVGVz2h0v8",
+        "url": "https://www.youtube.com/watch?v=sYVGVz2h0v8",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:14:34.621Z"
+      }
+    },
+    {
+      "id": "66b74b9d7f809db0100951cf",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "bzhzq7xr2h",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/bzhzq7xr2h.m3u8",
+      "youtube": {
+        "videoId": "vhLsapvK0rI",
+        "url": "https://www.youtube.com/watch?v=vhLsapvK0rI",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:20:32.597Z"
+      }
+    },
+    {
+      "id": "66b74b9f7f809db0100951d4",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "8btltvvw9p",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/8btltvvw9p.m3u8",
+      "youtube": {
+        "videoId": "t0L6gcQAK9A",
+        "url": "https://www.youtube.com/watch?v=t0L6gcQAK9A",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:24:19.243Z"
+      }
+    },
+    {
+      "id": "66b74ba07f809db0100951d9",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "o3zwdcj1fv",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/o3zwdcj1fv.m3u8",
+      "youtube": {
+        "videoId": "8VZGu_T0mJI",
+        "url": "https://www.youtube.com/watch?v=8VZGu_T0mJI",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:27:11.133Z"
+      }
+    },
+    {
+      "id": "66b74ba27f809db0100951de",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "see4tup2ef",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/see4tup2ef.m3u8",
+      "youtube": {
+        "videoId": "qbl1RU0wfgE",
+        "url": "https://www.youtube.com/watch?v=qbl1RU0wfgE",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:28:33.078Z"
+      }
+    },
+    {
+      "id": "66b74ba37f809db0100951e3",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "25fki1qd7f",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/25fki1qd7f.m3u8",
+      "youtube": {
+        "videoId": "RdQekAeNY3g",
+        "url": "https://www.youtube.com/watch?v=RdQekAeNY3g",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:30:50.091Z"
+      }
+    },
+    {
+      "id": "66b74ba47f809db0100951e8",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "s9cqbsqna3",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/s9cqbsqna3.m3u8",
+      "youtube": {
+        "videoId": "kfM0UcQIBOQ",
+        "url": "https://www.youtube.com/watch?v=kfM0UcQIBOQ",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:34:11.478Z"
+      }
+    },
+    {
+      "id": "66b74ba57f809db0100951ed",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "my99c2r52p",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/my99c2r52p.m3u8",
+      "youtube": {
+        "videoId": "Rfiv1vqZJ_U",
+        "url": "https://www.youtube.com/watch?v=Rfiv1vqZJ_U",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:39:48.212Z"
+      }
+    },
+    {
+      "id": "66b74ba67f809db0100951f2",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "wk75cilvlg",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/wk75cilvlg.m3u8",
+      "youtube": {
+        "videoId": "lK81ir-Luyg",
+        "url": "https://www.youtube.com/watch?v=lK81ir-Luyg",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:45:37.978Z"
+      }
+    },
+    {
+      "id": "66b74ba87f809db0100951f7",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "4ss2ixpgvd",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/4ss2ixpgvd.m3u8",
+      "youtube": {
+        "videoId": "RknF0nFSQ9k",
+        "url": "https://www.youtube.com/watch?v=RknF0nFSQ9k",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:48:44.447Z"
+      }
+    },
+    {
+      "id": "66b74ba97f809db0100951fc",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "02pyoz37ez",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/02pyoz37ez.m3u8",
+      "youtube": {
+        "videoId": "Dg4KP5hMRMk",
+        "url": "https://www.youtube.com/watch?v=Dg4KP5hMRMk",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:51:06.882Z"
+      }
+    },
+    {
+      "id": "66b74baa7f809db010095201",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "r23amjkv1q",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/r23amjkv1q.m3u8",
+      "youtube": {
+        "videoId": "b1fhZSuhGmc",
+        "url": "https://www.youtube.com/watch?v=b1fhZSuhGmc",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:56:26.426Z"
+      }
+    },
+    {
+      "id": "66b74bab7f809db010095206",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "rs3oufi5k3",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/rs3oufi5k3.m3u8",
+      "youtube": {
+        "videoId": "ZG-KO3pNbu4",
+        "url": "https://www.youtube.com/watch?v=ZG-KO3pNbu4",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T19:59:22.150Z"
+      }
+    },
+    {
+      "id": "66b74bac7f809db01009520b",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "jc86szodbf",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/jc86szodbf.m3u8",
+      "youtube": {
+        "videoId": "z-HaJRpzfdA",
+        "url": "https://www.youtube.com/watch?v=z-HaJRpzfdA",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:02:26.523Z"
+      }
+    },
+    {
+      "id": "66b74bae7f809db010095210",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "lvtla5qnrk",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/lvtla5qnrk.m3u8",
+      "youtube": {
+        "videoId": "GWRL0u5BZ-Y",
+        "url": "https://www.youtube.com/watch?v=GWRL0u5BZ-Y",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:04:43.678Z"
+      }
+    },
+    {
+      "id": "66b74baf7f809db010095215",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "rr0cifojq9",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/rr0cifojq9.m3u8",
+      "youtube": {
+        "videoId": "JbJqOpzArKk",
+        "url": "https://www.youtube.com/watch?v=JbJqOpzArKk",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:07:16.230Z"
+      }
+    },
+    {
+      "id": "66b74bb07f809db01009521a",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "13l26x37uv",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/13l26x37uv.m3u8",
+      "youtube": {
+        "videoId": "jiM39ImnYXY",
+        "url": "https://www.youtube.com/watch?v=jiM39ImnYXY",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:08:20.731Z"
+      }
+    },
+    {
+      "id": "66b74bb17f809db01009521f",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "vf1fkv9mq9",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/vf1fkv9mq9.m3u8",
+      "youtube": {
+        "videoId": "YkgBUW-aMcg",
+        "url": "https://www.youtube.com/watch?v=YkgBUW-aMcg",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:09:41.747Z"
+      }
+    },
+    {
+      "id": "66b74bb27f809db010095224",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "2gk99x6v9h",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/2gk99x6v9h.m3u8",
+      "youtube": {
+        "videoId": "SoTxAjnL0Wk",
+        "url": "https://www.youtube.com/watch?v=SoTxAjnL0Wk",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:10:34.224Z"
+      }
+    },
+    {
+      "id": "66b74bb47f809db010095229",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "ckbu13tfg5",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/ckbu13tfg5.m3u8",
+      "youtube": {
+        "videoId": "n_L9cn-3UxI",
+        "url": "https://www.youtube.com/watch?v=n_L9cn-3UxI",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:15:10.335Z"
+      }
+    },
+    {
+      "id": "66b74bb57f809db01009522e",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "vux6lscxtn",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/vux6lscxtn.m3u8",
+      "youtube": {
+        "videoId": "VtNQ_GCoMkI",
+        "url": "https://www.youtube.com/watch?v=VtNQ_GCoMkI",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:18:19.868Z"
+      }
+    },
+    {
+      "id": "66b74bb67f809db010095233",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "ma1grmzp9o",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/ma1grmzp9o.m3u8",
+      "youtube": {
+        "videoId": "cdYHIoaCkZw",
+        "url": "https://www.youtube.com/watch?v=cdYHIoaCkZw",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:19:45.407Z"
+      }
+    },
+    {
+      "id": "66b74bb87f809db010095238",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "6223x4iblb",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/6223x4iblb.m3u8",
+      "youtube": {
+        "videoId": "5V6lUIkWNr8",
+        "url": "https://www.youtube.com/watch?v=5V6lUIkWNr8",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:21:14.576Z"
+      }
+    },
+    {
+      "id": "66b74bb97f809db01009523d",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "du19cgfwke",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/du19cgfwke.m3u8",
+      "youtube": {
+        "videoId": "bP071DdcOTc",
+        "url": "https://www.youtube.com/watch?v=bP071DdcOTc",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:22:56.029Z"
+      }
+    },
+    {
+      "id": "66b74bbb7f809db010095247",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "9q71gdwtif",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/9q71gdwtif.m3u8",
+      "youtube": {
+        "videoId": "tE_YnWFXNq4",
+        "url": "https://www.youtube.com/watch?v=tE_YnWFXNq4",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:23:32.025Z"
+      }
+    },
+    {
+      "id": "66b74bbc7f809db01009524a",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "5ysnt3frtk",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/5ysnt3frtk.m3u8",
+      "youtube": {
+        "videoId": "UY5HS3T-rIE",
+        "url": "https://www.youtube.com/watch?v=UY5HS3T-rIE",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:23:51.649Z"
+      }
+    },
+    {
+      "id": "66b74bbd7f809db01009524d",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "h3ola72nhz",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/h3ola72nhz.m3u8",
+      "youtube": {
+        "videoId": "XeKHp9ZT5oY",
+        "url": "https://www.youtube.com/watch?v=XeKHp9ZT5oY",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:24:05.645Z"
+      }
+    },
+    {
+      "id": "66b74bbe7f809db010095250",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "ol8y60xmj2",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/ol8y60xmj2.m3u8",
+      "youtube": {
+        "videoId": "FCPivFXEZAw",
+        "url": "https://www.youtube.com/watch?v=FCPivFXEZAw",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:24:25.908Z"
+      }
+    },
+    {
+      "id": "66b74bbe7f809db010095253",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "imm6cs7ca0",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/imm6cs7ca0.m3u8",
+      "youtube": {
+        "videoId": "2nD_w2e5Jh0",
+        "url": "https://www.youtube.com/watch?v=2nD_w2e5Jh0",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:25:00.175Z"
+      }
+    },
+    {
+      "id": "66b74bbf7f809db010095256",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "d1owwzf4i0",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/d1owwzf4i0.m3u8",
+      "youtube": {
+        "videoId": "HOhfo6z7hos",
+        "url": "https://www.youtube.com/watch?v=HOhfo6z7hos",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:25:22.115Z"
+      }
+    },
+    {
+      "id": "66b74bc07f809db010095259",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "wviaxmme1w",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/wviaxmme1w.m3u8",
+      "youtube": {
+        "videoId": "gzFNE4gJ9XM",
+        "url": "https://www.youtube.com/watch?v=gzFNE4gJ9XM",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:25:51.686Z"
+      }
+    },
+    {
+      "id": "66b74bc17f809db01009525c",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "7po96djxgp",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/7po96djxgp.m3u8",
+      "youtube": {
+        "videoId": "pdSk97s9uKo",
+        "url": "https://www.youtube.com/watch?v=pdSk97s9uKo",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:26:22.437Z"
+      }
+    },
+    {
+      "id": "66b74bc27f809db01009525f",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "fw2q8az0kg",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/fw2q8az0kg.m3u8",
+      "youtube": {
+        "videoId": "550__5S2rO0",
+        "url": "https://www.youtube.com/watch?v=550__5S2rO0",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:26:35.302Z"
+      }
+    },
+    {
+      "id": "66b74bc27f809db010095262",
+      "name": "Untitled",
+      "type": "ivideo",
+      "sourceId": "pn00fkfndw",
+      "m3u8_url": "https://fast.wistia.com/embed/medias/pn00fkfndw.m3u8",
+      "youtube": {
+        "videoId": "7oxeiR0zrOY",
+        "url": "https://www.youtube.com/watch?v=7oxeiR0zrOY",
+        "privacyStatus": "unlisted",
+        "uploadedAt": "2026-09-21T20:27:19.224Z"
+      }
+    }
+  ]
+}

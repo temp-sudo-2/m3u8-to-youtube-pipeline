@@ -1,3 +1,76 @@
 {
-  "learningPath": []
+  "learningPath": [
+    {
+      "original": {
+        "id": "68fa3b4287f7d968610ee9c8",
+        "name": "What to Install?",
+        "type": "ivideo",
+        "sourceId": "s3kifwrq6n",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s3kifwrq6n.m3u8"
+      },
+      "stage": "unknown",
+      "error": "The user has exceeded the number of videos they may upload.",
+      "failedAt": "2026-09-22T08:42:36.089Z"
+    },
+    {
+      "original": {
+        "id": "68fa3b4287f7d968610ee9ca",
+        "name": "Using Replit",
+        "type": "ivideo",
+        "sourceId": "l3c8mn06g4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l3c8mn06g4.m3u8"
+      },
+      "stage": "unknown",
+      "error": "The user has exceeded the number of videos they may upload.",
+      "failedAt": "2026-09-22T08:42:47.016Z"
+    },
+    {
+      "original": {
+        "id": "68fa3b4287f7d968610ee9cb",
+        "name": "For Mac Users - Setting up C++",
+        "type": "ivideo",
+        "sourceId": "p74o2pkiiz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/p74o2pkiiz.m3u8"
+      },
+      "stage": "unknown",
+      "error": "The user has exceeded the number of videos they may upload.",
+      "failedAt": "2026-09-22T08:42:57.500Z"
+    },
+    {
+      "original": {
+        "id": "68f8ad2a61d56601f60a6a55",
+        "name": "Orientation Session (Recording)",
+        "type": "ivideo",
+        "sourceId": "dm6cfw1nk5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dm6cfw1nk5.m3u8"
+      },
+      "stage": "unknown",
+      "error": "The user has exceeded the number of videos they may upload.",
+      "failedAt": "2026-09-22T08:48:30.498Z"
+    },
+    {
+      "original": {
+        "id": "68f8ad2a61d56601f60a6a56",
+        "name": "Extra Live Session 1 (Recording)",
+        "type": "ivideo",
+        "sourceId": "4seewkt34o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4seewkt34o.m3u8"
+      },
+      "stage": "unknown",
+      "error": "The user has exceeded the number of videos they may upload.",
+      "failedAt": "2026-09-22T08:49:46.842Z"
+    },
+    {
+      "original": {
+        "id": "68f8ad2a61d56601f60a6a57",
+        "name": "Extra Live Session 2 (Recording)",
+        "type": "ivideo",
+        "sourceId": "7fl30zv5yt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7fl30zv5yt.m3u8"
+      },
+      "stage": "unknown",
+      "error": "The user has exceeded the number of videos they may upload.",
+      "failedAt": "2026-09-22T08:50:28.386Z"
+    }
+  ]
 }
